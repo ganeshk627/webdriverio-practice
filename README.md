@@ -207,6 +207,10 @@ or
 ```bash
 npx appium
 ```
+or
+```bash
+appium server -a 127.0.0.1 -p 4723
+```
 
 ### 6.1.2 Using GUI or CLI
 
