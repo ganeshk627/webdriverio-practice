@@ -211,6 +211,12 @@ or
 ```bash
 appium server -a 127.0.0.1 -p 4723
 ```
+or
+```bash
+# To trigger test from local network (not working)
+appium server -a 0.0.0.0 -p 4723 --allow-cors
+```
+
 
 ### 6.1.2 Using GUI or CLI
 
