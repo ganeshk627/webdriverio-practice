@@ -29,7 +29,7 @@ npm install @wdio/cli
 ```
 (or)
 ```bash
-npm i @wdio/cli
+npm i @wdio/cli -D
 ```
 
 ## 2.2 To install `appium`
@@ -235,8 +235,10 @@ appium -p 4723
 
 Resources
 ---------
-[VIDEO: Mobile Automation Testing using WebdriverIO](https://www.youtube.com/watch?v=XXaxOL-6gPA)
+[DOC: Getting started](https://app.eu-central-1.saucelabs.com/getting-started/automatedtesting)
 
-[GITHUB: webdriverio-appium-course](https://github.com/dilpreetj/webdriverio-appium-course/)
+[DOC: Getting started - Appium](https://app.eu-central-1.saucelabs.com/getting-started/guides/appium)
+
+[GITHUB: Saucelabs my-demo-app-rn](https://github.com/saucelabs/my-demo-app-rn/releases)
 
 ---------
