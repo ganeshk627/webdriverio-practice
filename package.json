@@ -21,5 +21,8 @@
     "@wdio/spec-reporter": "^9.11.0",
     "appium-uiautomator2-driver": "^4.1.0",
     "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "appium": "^2.16.2"
   }
 }
